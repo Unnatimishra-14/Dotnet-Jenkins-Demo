@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dlBHQ5x9smRvq4V8PIQGnkC5EWweHZYQChGo7dPuD10=",
+  "Source": "DotnetApp",
+  "BasePath": "_content/DotnetApp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
