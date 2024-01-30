@@ -30,3 +30,4 @@ C:\Users\Admin\source\repos\DotnetApp\DotnetApp\obj\Debug\net8.0\refint\DotnetAp
 C:\Users\Admin\source\repos\DotnetApp\DotnetApp\obj\Debug\net8.0\DotnetApp.pdb
 C:\Users\Admin\source\repos\DotnetApp\DotnetApp\obj\Debug\net8.0\DotnetApp.genruntimeconfig.cache
 C:\Users\Admin\source\repos\DotnetApp\DotnetApp\obj\Debug\net8.0\ref\DotnetApp.dll
+C:\Users\Admin\source\repos\DotnetApp\DotnetApp\obj\Debug\net8.0\DotnetApp.sourcelink.json
